@@ -23,7 +23,7 @@ This project explores historical trends in **global CO₂ emissions and energy c
   * Energy consumption trends.
   * Comparisons across regions and time.
 
-📌 A more detailed explanation (with screenshots) is available in the [Interactive Visualization README](./sources/interactive-visualization/README.md).
+📌 A more detailed explanation (with screenshots) is available in the [Interactive Visualization README](./srcs/interactive-visualization/README.md).
 
 ### 3. Predictive Modeling (Python Notebook)
 
