@@ -18,24 +18,33 @@ This project explores historical trends in **global CO₂ emissions and energy c
 * Import the cleaned dataset into **Power BI**.
 * Build **dynamic dashboards** for exploratory analysis.
 * Provide **interactive storytelling tools** for users to explore:
-
   * Global and country-level CO₂ emissions.
   * Energy consumption trends.
   * Comparisons across regions and time.
 
-📌 A more detailed explanation (with screenshots) is available in the [Interactive Visualization README](./srcs/interactive-visualization/README.md).
+A more detailed explanation (with screenshots) is available in the [Interactive Visualization README](./srcs/interactive-visualization/README.md).
 
 ### 3. Predictive Modeling (Python Notebook)
 
-* Use the prepared dataset for **machine learning**.
-* Develop and train models to **forecast future CO₂ emissions and energy use**.
-* Generate **data-driven insights** to support informed decision-making.
+* Leverage the cleaned dataset for **time-series forecasting**.  
+* Apply the **Facebook Prophet** model to generate 5-year forecasts for:
+  * CO₂ emissions  
+  * Energy consumption  
+  * Financial sustainability metrics  
+  * Efficiency measures  
+* Provide **insights into future environmental trends** and highlight top contributing countries.  
+
+Forecasts (from Prophet model):  
+![CO₂ Forecast](./srcs/predictive-modeling/screenshots/co2.png)  
+![Energy Forecast](./srcs/predictive-modeling/screenshots/energy.png)  
+![Financial Forecast](./srcs/predictive-modeling/screenshots/finance.png)  
+![Efficiency Forecast](./srcs/predictive-modeling/screenshots/efficiency.png)
 
 ---
 
 ## Tech Stack
 
-* **Python**  
+* **Python** (Pandas, Prophet, Matplotlib)  
 * **Power BI**  
 * **Jupyter Notebook**
 
