@@ -1,5 +1,4 @@
 # Global Environmental Dashboard  
-![Screenshot](./Screenshots/worldmap.PNG)
 
 An interactive Power BI dashboard analyzing **CO2 emissions, energy usage, financial impacts, and efficiency across countries**.  
 The report includes 4 main pages (**CO2, Financial, Energy, Efficiency**) and a **Top 10 summary page**.
