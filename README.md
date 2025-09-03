@@ -23,6 +23,8 @@ This project explores historical trends in **global CO₂ emissions and energy c
   * Energy consumption trends.
   * Comparisons across regions and time.
 
+📌 A more detailed explanation (with screenshots) is available in the [Interactive Visualization README](./sources/interactive-visualization/README.md).
+
 ### 3. Predictive Modeling (Python Notebook)
 
 * Use the prepared dataset for **machine learning**.
@@ -33,16 +35,14 @@ This project explores historical trends in **global CO₂ emissions and energy c
 
 ## Tech Stack
 
-* **Python** 
-* **Power BI** 
+* **Python**  
+* **Power BI**  
 * **Jupyter Notebook**
 
 ---
 
-
 ## Goals
 
-* Provide a **clean dataset** ready for analysis.
-* Enable **interactive exploration** of environmental trends.
-* Deliver **predictive insights** into future emissions and energy use.
-
+* Provide a **clean dataset** ready for analysis.  
+* Enable **interactive exploration** of environmental trends.  
+* Deliver **predictive insights** into future emissions and energy use.  
