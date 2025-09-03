@@ -14,6 +14,7 @@ This project explores historical trends in **global CO₂ emissions and energy c
 * Deliver a **structured and reliable dataset** that serves as the foundation for all analyses.
 
 ### 2. Interactive Visualization (Power BI Dashboard)
+![Screenshot](srcs/interactive-visualization/Screenshots/worldmap.PNG)
 
 * Import the cleaned dataset into **Power BI**.
 * Build **dynamic dashboards** for exploratory analysis.
@@ -34,11 +35,10 @@ A more detailed explanation (with screenshots) is available in the [Interactive 
   * Efficiency measures  
 * Provide **insights into future environmental trends** and highlight top contributing countries.  
 
-Forecasts (from Prophet model):  
+Example forecast (from Prophet model):  
 ![CO₂ Forecast](./srcs/predictive-modeling/screenshots/co2.png)  
-![Energy Forecast](./srcs/predictive-modeling/screenshots/energy.png)  
-![Financial Forecast](./srcs/predictive-modeling/screenshots/finance.png)  
-![Efficiency Forecast](./srcs/predictive-modeling/screenshots/efficiency.png)
+
+More forecasting screenshots are available in this [folder](./srcs/predictive-modeling/screenshots).
 
 ---
 
